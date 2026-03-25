@@ -1,0 +1,7 @@
+C:\Users\User\Documents\EXERCISES\Azure\projects\BestBikeApp\pub\BestBikeApp.exe
+C:\Users\User\Documents\EXERCISES\Azure\projects\BestBikeApp\pub\appsettings.Development.json
+C:\Users\User\Documents\EXERCISES\Azure\projects\BestBikeApp\pub\appsettings.json
+C:\Users\User\Documents\EXERCISES\Azure\projects\BestBikeApp\pub\BestBikeApp.dll
+C:\Users\User\Documents\EXERCISES\Azure\projects\BestBikeApp\pub\BestBikeApp.deps.json
+C:\Users\User\Documents\EXERCISES\Azure\projects\BestBikeApp\pub\BestBikeApp.runtimeconfig.json
+C:\Users\User\Documents\EXERCISES\Azure\projects\BestBikeApp\pub\BestBikeApp.pdb
